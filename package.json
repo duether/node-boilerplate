@@ -1,7 +1,7 @@
 {
-  "name": "webscorts",
+  "name": "node-boilerplate",
   "version": "1.0.0",
-  "description": "Escorts services platform",
+  "description": "small scalable api rest server",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -10,11 +10,9 @@
   "author": "Enzo Barrera",
   "license": "ISC",
   "dependencies": {
-    "-": "^0.0.1",
     "@jsbits/add-months": "^1.1.2",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "D": "^1.0.0",
     "express": "^4.17.1",
     "express-validator": "^6.5.0",
     "fs-extra": "^9.0.1",

@@ -1,0 +1,27 @@
+{
+  "name": "webscorts",
+  "version": "1.0.0",
+  "description": "Escorts services platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Enzo Barrera",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@jsbits/add-months": "^1.1.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "D": "^1.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.5.0",
+    "fs-extra": "^9.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
